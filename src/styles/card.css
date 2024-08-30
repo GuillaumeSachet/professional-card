@@ -27,7 +27,7 @@ body{
     min-height: 100vh;
     /* background-color: #131516; */
     font-family: 'Lato', sans-serif;
-    padding: 1em;
+    padding: 0.5em;
     overflow-y: auto
 
 }
